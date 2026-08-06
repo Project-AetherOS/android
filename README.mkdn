@@ -1,6 +1,6 @@
 # Initialize local repository
 ```
-repo init -u https://github.com/Project-AetherOS/android -b 16.2 --git-lfs
+repo init -u https://github.com/Project-AetherOS/android -b 16.2-WIP --git-lfs
 ```
 
 # Sync up
