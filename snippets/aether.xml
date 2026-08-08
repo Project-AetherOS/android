@@ -10,7 +10,7 @@
 
   
   
-  <project path="android" name="Project-AetherOS/android" remote="aether" groups="pdk" revision="refs/heads/16.2-WIP"/>
+  <project path="android" name="Project-AetherOS/android" remote="aether" groups="pdk" revision="refs/heads/16.2"/>
   
   
   <project path="build/make" name="Project-AetherOS/build_make" remote="aether">
