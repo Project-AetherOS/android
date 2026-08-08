@@ -244,7 +244,6 @@
   
   
   <project path="vendor/lineage" name="Project-AetherOS/android_vendor_lineage" remote="aether" revision="refs/heads/lineage-23.2" groups="pdk"/>
-  <project path="vendor/lineage-priv" name="Project-AetherOS/android_vendor_lineage-priv" remote="aether" revision="refs/heads/main" groups="pdk"/>
   
   
   <project path="vendor/pixel/extract-utils" name="GhosutoX/vendor_pixel_extract-utils" remote="aether-gitlab">
