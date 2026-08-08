@@ -1,6 +1,6 @@
 # Initialize local repository
 ```
-repo init -u https://github.com/Project-AetherOS/android -b 16.2-WIP --git-lfs
+repo init -u https://github.com/Project-AetherOS/android -b 16.2 --git-lfs
 ```
 
 # Sync up
@@ -25,7 +25,7 @@ lunch lineage_codename-bp4a-user
 mka bacon
 ```
 
-- For GMS
+- For GMS (WIP)
 ```make
 WITH_GMS := true
 ```
