@@ -17,7 +17,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 - Lunch a target
 ```bash
-lunch lineage_codename-bp4a-user
+lunch aether_codename-bp4a-user
 ```
 
 - To start compiling
