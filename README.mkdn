@@ -25,6 +25,11 @@ lunch aether_codename-bp4a-user
 mka bacon
 ```
 
+- Set maintainer name
+```make
+ro.aether.maintainer=name
+```
+
 - For GMS (WIP)
 ```make
 WITH_GMS := true
