@@ -1028,5 +1028,4 @@
   </project>
 
   <include name="snippets/aether.xml" />
-  <include name="snippets/lineage.xml" />
 </manifest>
